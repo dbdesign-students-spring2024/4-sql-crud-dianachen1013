@@ -1,0 +1,1001 @@
+id,category,name,price_tier,neighborhood,opening hour,closing hour,average_rating,good_for_kids
+1,Japanese,Essential by Chris,Medium,Flushing,10:00,16:00,2,TRUE
+2,Thai,Witherspoon Grill,Cheap,Greenwich Village,9:00,17:00,5,FALSE
+3,Thai,MayRee,Expensive,Little Italy,11:00,18:00,3,TRUE
+4,Italian,Kimura,Medium,East Village,11:30,17:00,3,TRUE
+5,Chinese,ilili,Expensive,Lower East Side,9:00,16:00,4,FALSE
+6,Indian,Tartinery,Expensive,Little Italy,11:30,16:00,3,FALSE
+7,Italian,Bo Ky,Expensive,Greenwich Village,10:00,20:00,3,TRUE
+8,Japanese,Essential by Chris,Medium,Gramercy,10:00,20:00,2,FALSE
+9,Indian,Witherspoon Grill,Cheap,West Village,10:00,16:00,3,TRUE
+10,Indian,Gelso & Grand,Cheap,Chelsea,9:00,21:00,3,FALSE
+11,Italian,MayRee,Medium,Flushing,11:30,21:00,1,FALSE
+12,Mexican,Kimura,Medium,Tribeca,11:00,17:00,4,TRUE
+13,Mexican,Big Wong,Expensive,East Village,9:00,17:00,5,TRUE
+14,Indian,Five Guys,Medium,Greenwich Village,11:30,17:00,2,TRUE
+15,Korean,Gelso & Grand,Medium,Upper East Side,11:30,18:00,2,FALSE
+16,Indian,Wendy's,Expensive,Upper East Side,9:30,20:00,1,FALSE
+17,Spanish,ilili,Cheap,Little Italy,9:00,18:00,3,TRUE
+18,Japanese,MayRee,Medium,Chelsea,10:00,20:00,5,TRUE
+19,Mexican,Five Guys,Medium,Little Italy,10:30,17:00,2,FALSE
+20,Korean,Chipotle,Cheap,Little Italy,9:00,16:00,4,TRUE
+21,Japanese,Bonqueria,Cheap,Flushing,10:00,20:00,2,TRUE
+22,Indian,Su Jeo,Cheap,Chelsea,10:30,20:00,3,FALSE
+23,Spanish,Kimura,Medium,Chelsea,11:00,17:00,4,TRUE
+24,Japanese,Fish Cheeks,Cheap,Upper West Side,10:00,16:00,5,TRUE
+25,Spanish,Take31,Cheap,East Village,11:30,20:00,3,TRUE
+26,Indian,Kimura,Medium,West Village,11:00,18:00,5,FALSE
+27,Thai,Kimura,Cheap,Upper East Side,11:00,16:00,4,TRUE
+28,Korean,Bonqueria,Medium,Lower East Side,9:30,16:00,3,TRUE
+29,Indian,Su Jeo,Medium,Little Italy,11:00,21:00,4,TRUE
+30,Korean,Fish Cheeks,Expensive,Upper East Side,9:30,17:00,2,FALSE
+31,Chinese,Don Angie,Medium,Tribeca,9:30,17:00,5,TRUE
+32,Chinese,ilili,Expensive,Greenwich Village,9:30,20:00,4,TRUE
+33,Thai,Gelso & Grand,Expensive,Soho,10:30,20:00,5,TRUE
+34,Korean,Essential by Chris,Cheap,Gramercy,10:30,17:00,4,TRUE
+35,Indian,Antoya,Medium,East Village,10:00,17:00,3,FALSE
+36,Chinese,Wendy's,Expensive,West Village,10:00,21:00,5,TRUE
+37,Thai,Don Angie,Expensive,Upper East Side,9:30,18:00,5,FALSE
+38,Korean,Temple Court,Medium,Chelsea,10:30,20:00,5,TRUE
+39,Chinese,Fish Cheeks,Expensive,Upper West Side,9:00,17:00,2,TRUE
+40,Mexican,MayRee,Cheap,West Village,9:30,17:00,1,FALSE
+41,Mexican,Five Guys,Expensive,Gramercy,9:30,17:00,3,TRUE
+42,Mexican,Tartinery,Medium,East Village,10:00,20:00,5,TRUE
+43,Spanish,Witherspoon Grill,Cheap,Flushing,10:00,20:00,4,FALSE
+44,Chinese,Don Angie,Medium,West Village,11:30,20:00,5,TRUE
+45,Japanese,Hello Saigon,Medium,Lower East Side,10:30,21:00,4,TRUE
+46,Indian,Take31,Cheap,Upper East Side,10:00,20:00,3,TRUE
+47,Mexican,Bonqueria,Medium,Chelsea,11:00,21:00,3,FALSE
+48,Korean,Temple Court,Cheap,West Village,11:30,20:00,4,FALSE
+49,Mexican,Witherspoon Grill,Cheap,Gramercy,11:30,17:00,4,FALSE
+50,Mexican,Don Angie,Expensive,Lower East Side,9:30,21:00,1,TRUE
+51,Japanese,Wendy's,Medium,Soho,11:00,17:00,3,TRUE
+52,Italian,Su Jeo,Cheap,Tribeca,10:00,20:00,1,FALSE
+53,Spanish,Big Wong,Cheap,Chelsea,10:00,20:00,3,TRUE
+54,Mexican,Bonqueria,Cheap,Soho,9:00,18:00,5,TRUE
+55,Japanese,Take31,Cheap,Greenwich Village,11:00,18:00,5,TRUE
+56,Spanish,Su Jeo,Expensive,East Village,11:30,16:00,1,TRUE
+57,Thai,MayRee,Expensive,Upper West Side,10:00,16:00,5,TRUE
+58,Italian,Bo Ky,Cheap,Tribeca,11:30,21:00,5,TRUE
+59,Mexican,Chipotle,Expensive,East Village,9:30,18:00,2,FALSE
+60,Indian,Take31,Expensive,Soho,11:30,20:00,5,FALSE
+61,Japanese,Kimura,Cheap,Upper West Side,9:00,16:00,2,TRUE
+62,Chinese,Antoya,Medium,West Village,9:30,17:00,1,TRUE
+63,Spanish,Chipotle,Expensive,West Village,10:00,17:00,2,FALSE
+64,Korean,Hello Saigon,Expensive,Soho,9:00,18:00,1,FALSE
+65,Japanese,Bo Ky,Cheap,Gramercy,11:30,18:00,5,FALSE
+66,Korean,Take31,Expensive,Soho,9:30,17:00,5,TRUE
+67,Mexican,Bonqueria,Medium,Lower East Side,9:30,20:00,1,FALSE
+68,Italian,Five Guys,Medium,Chelsea,9:00,16:00,5,FALSE
+69,Thai,Antoya,Cheap,Upper West Side,10:00,17:00,5,FALSE
+70,Italian,Gelso & Grand,Expensive,Tribeca,10:00,17:00,3,TRUE
+71,Thai,Fish Cheeks,Expensive,Upper East Side,11:30,20:00,5,FALSE
+72,Italian,Tartinery,Cheap,Upper West Side,11:30,16:00,1,TRUE
+73,Mexican,Antoya,Medium,West Village,9:30,20:00,4,FALSE
+74,Japanese,Bonqueria,Medium,Soho,10:00,16:00,5,FALSE
+75,Spanish,Bo Ky,Cheap,Lower East Side,9:00,18:00,5,TRUE
+76,Italian,Don Angie,Expensive,Little Italy,10:30,17:00,3,FALSE
+77,Japanese,Bo Ky,Expensive,Flushing,11:00,20:00,5,TRUE
+78,Chinese,Take31,Expensive,Lower East Side,11:00,18:00,4,TRUE
+79,Indian,Take31,Cheap,Tribeca,9:00,21:00,4,TRUE
+80,Italian,Antoya,Cheap,Upper West Side,9:30,21:00,3,FALSE
+81,Chinese,Kimura,Expensive,Upper East Side,9:00,21:00,2,FALSE
+82,Chinese,Gelso & Grand,Medium,Lower East Side,9:00,18:00,4,TRUE
+83,Japanese,Hello Saigon,Cheap,Lower East Side,9:00,20:00,2,FALSE
+84,Thai,Gelso & Grand,Expensive,Soho,9:00,18:00,5,FALSE
+85,Japanese,Bo Ky,Cheap,Chelsea,10:30,20:00,3,FALSE
+86,Spanish,Wendy's,Expensive,Gramercy,11:30,21:00,3,FALSE
+87,Korean,Su Jeo,Cheap,Upper West Side,10:30,17:00,4,FALSE
+88,Spanish,Chipotle,Medium,Gramercy,9:30,17:00,4,TRUE
+89,Italian,Temple Court,Cheap,Gramercy,11:30,16:00,3,FALSE
+90,Japanese,Su Jeo,Expensive,Chelsea,11:30,17:00,5,TRUE
+91,Thai,Su Jeo,Expensive,East Village,11:30,17:00,4,TRUE
+92,Korean,Fish Cheeks,Cheap,Lower East Side,11:30,16:00,1,FALSE
+93,Japanese,Tartinery,Cheap,Greenwich Village,9:00,17:00,4,TRUE
+94,Italian,Tartinery,Cheap,West Village,9:30,20:00,3,TRUE
+95,Spanish,Five Guys,Medium,Tribeca,10:30,18:00,1,FALSE
+96,Thai,Hello Saigon,Expensive,West Village,10:30,17:00,5,FALSE
+97,Indian,MayRee,Expensive,Tribeca,10:30,20:00,4,FALSE
+98,Chinese,Don Angie,Cheap,Greenwich Village,10:00,16:00,1,TRUE
+99,Korean,Kimura,Medium,East Village,10:30,16:00,5,FALSE
+100,Italian,Essential by Chris,Medium,Gramercy,9:00,17:00,4,FALSE
+101,Indian,Gelso & Grand,Expensive,Soho,9:30,17:00,1,FALSE
+102,Mexican,Don Angie,Medium,East Village,11:30,21:00,4,TRUE
+103,Spanish,Don Angie,Cheap,East Village,10:00,18:00,1,TRUE
+104,Chinese,Chipotle,Cheap,Flushing,10:30,16:00,1,FALSE
+105,Italian,Five Guys,Expensive,Little Italy,10:00,18:00,3,TRUE
+106,Japanese,Tartinery,Medium,Little Italy,10:00,21:00,5,FALSE
+107,Thai,Bo Ky,Medium,Flushing,9:00,18:00,2,FALSE
+108,Korean,Five Guys,Medium,Soho,9:00,17:00,1,TRUE
+109,Indian,Bo Ky,Expensive,Tribeca,10:00,20:00,5,TRUE
+110,Italian,Su Jeo,Cheap,West Village,10:00,16:00,3,TRUE
+111,Italian,Temple Court,Expensive,Gramercy,11:30,21:00,1,FALSE
+112,Chinese,Five Guys,Cheap,Chelsea,9:30,21:00,5,TRUE
+113,Chinese,Witherspoon Grill,Expensive,West Village,11:00,16:00,3,TRUE
+114,Italian,Temple Court,Cheap,Little Italy,9:30,21:00,1,TRUE
+115,Chinese,Big Wong,Medium,Little Italy,11:30,17:00,4,TRUE
+116,Chinese,Antoya,Expensive,West Village,11:30,17:00,4,TRUE
+117,Thai,Witherspoon Grill,Medium,Greenwich Village,11:30,21:00,4,FALSE
+118,Spanish,ilili,Cheap,Flushing,11:30,18:00,1,TRUE
+119,Spanish,Fish Cheeks,Cheap,Upper East Side,10:30,17:00,4,FALSE
+120,Indian,Chipotle,Cheap,East Village,9:00,17:00,4,FALSE
+121,Indian,Fish Cheeks,Expensive,West Village,10:00,18:00,4,FALSE
+122,Indian,Big Wong,Medium,Flushing,9:00,20:00,3,FALSE
+123,Chinese,Su Jeo,Cheap,Upper East Side,11:00,16:00,3,TRUE
+124,Korean,Temple Court,Medium,Little Italy,9:00,21:00,4,FALSE
+125,Italian,Fish Cheeks,Cheap,Chelsea,11:00,17:00,3,TRUE
+126,Indian,Bonqueria,Medium,Upper East Side,9:00,20:00,5,FALSE
+127,Italian,Don Angie,Expensive,Little Italy,9:00,18:00,1,FALSE
+128,Spanish,Witherspoon Grill,Cheap,West Village,11:00,16:00,2,FALSE
+129,Japanese,Fish Cheeks,Cheap,Lower East Side,9:00,20:00,2,TRUE
+130,Indian,ilili,Cheap,Flushing,11:00,20:00,3,FALSE
+131,Italian,Take31,Cheap,Gramercy,11:30,18:00,3,TRUE
+132,Japanese,Chipotle,Cheap,Greenwich Village,10:00,20:00,1,FALSE
+133,Italian,Big Wong,Expensive,East Village,9:30,21:00,1,TRUE
+134,Korean,Bonqueria,Medium,Chelsea,11:00,20:00,4,TRUE
+135,Chinese,Kimura,Expensive,East Village,9:00,21:00,5,FALSE
+136,Korean,Temple Court,Medium,Upper East Side,11:30,17:00,4,TRUE
+137,Italian,MayRee,Expensive,Tribeca,10:00,17:00,4,TRUE
+138,Indian,Kimura,Expensive,Soho,10:00,17:00,1,TRUE
+139,Mexican,Don Angie,Medium,Upper East Side,10:00,20:00,3,TRUE
+140,Japanese,Su Jeo,Medium,Lower East Side,11:00,18:00,5,FALSE
+141,Spanish,Tartinery,Medium,Tribeca,10:00,18:00,5,TRUE
+142,Japanese,Bo Ky,Medium,Flushing,9:00,17:00,3,FALSE
+143,Spanish,Antoya,Expensive,West Village,10:00,21:00,2,FALSE
+144,Korean,Chipotle,Medium,Soho,11:00,17:00,4,FALSE
+145,Japanese,Kimura,Expensive,Upper West Side,10:00,17:00,1,TRUE
+146,Indian,Gelso & Grand,Cheap,Flushing,11:30,20:00,3,FALSE
+147,Korean,ilili,Medium,Soho,10:00,17:00,3,TRUE
+148,Italian,Big Wong,Medium,Greenwich Village,10:00,17:00,5,TRUE
+149,Italian,Kimura,Expensive,Soho,10:00,16:00,1,TRUE
+150,Italian,Gelso & Grand,Cheap,West Village,10:00,21:00,3,FALSE
+151,Thai,Hello Saigon,Cheap,Upper West Side,9:00,16:00,3,TRUE
+152,Japanese,Essential by Chris,Expensive,Lower East Side,10:00,21:00,5,TRUE
+153,Thai,ilili,Medium,Lower East Side,9:30,21:00,1,TRUE
+154,Korean,Essential by Chris,Expensive,Upper East Side,10:00,17:00,2,TRUE
+155,Korean,Wendy's,Expensive,Soho,10:00,20:00,2,TRUE
+156,Italian,Wendy's,Expensive,Upper East Side,9:00,17:00,5,FALSE
+157,Mexican,Chipotle,Medium,East Village,11:00,18:00,4,FALSE
+158,Chinese,Witherspoon Grill,Medium,Upper West Side,9:00,21:00,5,TRUE
+159,Chinese,Don Angie,Cheap,Upper East Side,11:00,18:00,4,TRUE
+160,Mexican,Hello Saigon,Cheap,East Village,10:00,18:00,2,TRUE
+161,Thai,Bo Ky,Expensive,Upper West Side,10:00,18:00,4,TRUE
+162,Indian,Bonqueria,Medium,East Village,9:30,18:00,3,FALSE
+163,Thai,Big Wong,Expensive,Gramercy,11:00,17:00,5,FALSE
+164,Spanish,Five Guys,Expensive,Little Italy,11:00,18:00,3,TRUE
+165,Thai,Kimura,Expensive,Gramercy,11:30,21:00,5,TRUE
+166,Japanese,Fish Cheeks,Medium,Soho,10:30,17:00,2,TRUE
+167,Mexican,Tartinery,Medium,Greenwich Village,10:30,17:00,3,FALSE
+168,Japanese,Essential by Chris,Expensive,Chelsea,11:00,18:00,5,TRUE
+169,Spanish,Witherspoon Grill,Cheap,Flushing,11:30,20:00,5,TRUE
+170,Korean,Big Wong,Expensive,Greenwich Village,9:00,16:00,1,TRUE
+171,Mexican,MayRee,Cheap,Tribeca,9:30,21:00,4,FALSE
+172,Chinese,Hello Saigon,Cheap,West Village,10:00,20:00,3,FALSE
+173,Spanish,Big Wong,Cheap,West Village,9:30,20:00,4,FALSE
+174,Japanese,Hello Saigon,Expensive,Flushing,9:00,17:00,1,TRUE
+175,Italian,Kimura,Expensive,Lower East Side,9:30,20:00,1,FALSE
+176,Indian,Take31,Cheap,Upper West Side,11:00,20:00,1,TRUE
+177,Japanese,Bonqueria,Cheap,Upper West Side,9:00,18:00,1,FALSE
+178,Chinese,Essential by Chris,Expensive,Lower East Side,11:30,16:00,4,TRUE
+179,Chinese,Hello Saigon,Expensive,Little Italy,10:30,18:00,3,TRUE
+180,Korean,Temple Court,Cheap,Soho,9:00,17:00,1,FALSE
+181,Italian,Bo Ky,Medium,West Village,10:30,18:00,4,TRUE
+182,Japanese,MayRee,Medium,Upper East Side,11:00,21:00,3,FALSE
+183,Mexican,Don Angie,Expensive,Flushing,10:30,20:00,1,FALSE
+184,Korean,Bo Ky,Medium,Greenwich Village,9:30,20:00,2,FALSE
+185,Indian,Wendy's,Cheap,Flushing,11:00,20:00,1,FALSE
+186,Italian,MayRee,Expensive,Greenwich Village,11:30,16:00,1,FALSE
+187,Mexican,ilili,Medium,Chelsea,10:30,17:00,5,TRUE
+188,Indian,Su Jeo,Medium,West Village,9:00,20:00,5,TRUE
+189,Mexican,Antoya,Medium,Little Italy,10:30,18:00,4,TRUE
+190,Korean,Bo Ky,Expensive,Flushing,11:30,17:00,1,TRUE
+191,Italian,Temple Court,Medium,Upper West Side,11:30,20:00,2,FALSE
+192,Japanese,Bonqueria,Cheap,Chelsea,10:00,18:00,1,FALSE
+193,Spanish,Su Jeo,Expensive,Upper West Side,11:00,20:00,1,TRUE
+194,Italian,MayRee,Expensive,East Village,10:00,17:00,1,FALSE
+195,Korean,Gelso & Grand,Medium,Greenwich Village,11:30,20:00,2,TRUE
+196,Chinese,ilili,Cheap,Flushing,10:00,17:00,3,TRUE
+197,Chinese,Don Angie,Medium,West Village,11:00,16:00,3,FALSE
+198,Indian,Five Guys,Cheap,Flushing,9:30,20:00,1,FALSE
+199,Japanese,Bonqueria,Cheap,Flushing,9:00,17:00,4,TRUE
+200,Spanish,Wendy's,Expensive,Upper West Side,10:30,20:00,1,TRUE
+201,Spanish,Kimura,Cheap,Gramercy,11:30,17:00,4,TRUE
+202,Korean,Kimura,Cheap,Flushing,11:00,18:00,3,TRUE
+203,Thai,Essential by Chris,Medium,Lower East Side,10:00,20:00,3,FALSE
+204,Italian,Big Wong,Expensive,Greenwich Village,10:00,21:00,3,TRUE
+205,Italian,Bonqueria,Cheap,Flushing,11:00,17:00,3,FALSE
+206,Chinese,Gelso & Grand,Medium,Greenwich Village,10:00,16:00,5,TRUE
+207,Korean,Fish Cheeks,Medium,Flushing,9:00,20:00,5,FALSE
+208,Japanese,Kimura,Medium,Upper East Side,9:30,20:00,3,TRUE
+209,Indian,Fish Cheeks,Medium,Tribeca,9:00,21:00,1,TRUE
+210,Japanese,Five Guys,Expensive,Flushing,11:30,16:00,2,FALSE
+211,Japanese,Bonqueria,Expensive,Flushing,11:00,16:00,5,FALSE
+212,Spanish,Take31,Cheap,Upper East Side,10:00,20:00,1,FALSE
+213,Spanish,ilili,Cheap,Upper West Side,11:00,20:00,5,FALSE
+214,Thai,Tartinery,Medium,Upper West Side,10:00,20:00,4,FALSE
+215,Spanish,Bo Ky,Medium,East Village,11:30,17:00,2,TRUE
+216,Thai,Wendy's,Cheap,East Village,9:00,16:00,2,FALSE
+217,Chinese,Kimura,Medium,Upper East Side,10:00,20:00,1,FALSE
+218,Thai,Gelso & Grand,Cheap,Little Italy,9:00,18:00,3,FALSE
+219,Chinese,Bo Ky,Medium,West Village,11:30,20:00,5,TRUE
+220,Japanese,Antoya,Cheap,Tribeca,9:00,20:00,5,FALSE
+221,Japanese,Gelso & Grand,Cheap,Lower East Side,9:00,18:00,3,FALSE
+222,Mexican,Big Wong,Cheap,Lower East Side,9:00,21:00,4,FALSE
+223,Korean,Tartinery,Cheap,Tribeca,9:30,17:00,3,FALSE
+224,Thai,Witherspoon Grill,Expensive,Tribeca,11:00,17:00,4,TRUE
+225,Korean,Take31,Cheap,Tribeca,11:30,20:00,2,TRUE
+226,Indian,Antoya,Expensive,Soho,11:30,17:00,2,FALSE
+227,Japanese,Antoya,Expensive,Little Italy,9:30,20:00,5,FALSE
+228,Italian,Wendy's,Cheap,Lower East Side,10:00,16:00,2,TRUE
+229,Italian,Essential by Chris,Cheap,Flushing,10:00,20:00,1,TRUE
+230,Mexican,Su Jeo,Expensive,Chelsea,9:30,21:00,1,TRUE
+231,Italian,ilili,Expensive,Soho,9:00,17:00,1,FALSE
+232,Mexican,Kimura,Cheap,Lower East Side,9:00,17:00,2,TRUE
+233,Korean,Wendy's,Expensive,Tribeca,11:00,16:00,2,FALSE
+234,Korean,Kimura,Medium,Little Italy,9:30,20:00,1,FALSE
+235,Chinese,Bo Ky,Cheap,Greenwich Village,10:30,20:00,5,FALSE
+236,Japanese,Su Jeo,Cheap,Little Italy,11:00,18:00,4,TRUE
+237,Spanish,Kimura,Medium,Chelsea,10:00,18:00,2,FALSE
+238,Japanese,Wendy's,Expensive,East Village,9:00,16:00,5,TRUE
+239,Japanese,Tartinery,Expensive,Flushing,11:00,18:00,2,FALSE
+240,Chinese,Essential by Chris,Medium,Greenwich Village,9:00,17:00,3,FALSE
+241,Italian,Big Wong,Cheap,Little Italy,10:00,17:00,5,FALSE
+242,Mexican,Chipotle,Cheap,Gramercy,9:30,21:00,3,FALSE
+243,Indian,Antoya,Cheap,Little Italy,10:00,18:00,1,TRUE
+244,Italian,Essential by Chris,Cheap,West Village,11:00,18:00,3,TRUE
+245,Japanese,Fish Cheeks,Medium,Upper West Side,11:30,21:00,3,TRUE
+246,Indian,Essential by Chris,Medium,Upper East Side,10:00,18:00,4,FALSE
+247,Indian,Antoya,Cheap,Little Italy,9:30,17:00,5,FALSE
+248,Thai,Take31,Cheap,Upper East Side,10:00,20:00,1,TRUE
+249,Italian,Tartinery,Medium,Chelsea,11:30,20:00,5,FALSE
+250,Chinese,Essential by Chris,Expensive,Little Italy,10:00,20:00,5,FALSE
+251,Italian,Witherspoon Grill,Cheap,Little Italy,11:00,16:00,5,FALSE
+252,Spanish,Fish Cheeks,Cheap,West Village,11:00,21:00,3,FALSE
+253,Spanish,Bo Ky,Expensive,Flushing,9:30,18:00,1,TRUE
+254,Korean,ilili,Expensive,Flushing,10:00,18:00,3,FALSE
+255,Spanish,Take31,Cheap,Chelsea,11:00,18:00,2,FALSE
+256,Korean,Gelso & Grand,Medium,Lower East Side,11:30,18:00,5,TRUE
+257,Indian,Essential by Chris,Medium,Flushing,11:00,20:00,3,FALSE
+258,Indian,Kimura,Medium,Flushing,11:00,20:00,4,TRUE
+259,Mexican,Essential by Chris,Medium,Lower East Side,10:00,17:00,1,FALSE
+260,Thai,Hello Saigon,Cheap,West Village,10:30,17:00,5,FALSE
+261,Korean,Don Angie,Cheap,East Village,10:30,20:00,2,TRUE
+262,Japanese,Wendy's,Expensive,Tribeca,11:30,20:00,5,TRUE
+263,Korean,Witherspoon Grill,Expensive,Lower East Side,9:00,17:00,2,TRUE
+264,Indian,Bo Ky,Expensive,Little Italy,10:30,20:00,5,TRUE
+265,Mexican,Bo Ky,Cheap,Little Italy,11:30,18:00,2,TRUE
+266,Thai,Su Jeo,Expensive,Gramercy,10:00,20:00,5,TRUE
+267,Italian,Antoya,Cheap,Lower East Side,9:30,20:00,1,FALSE
+268,Japanese,Witherspoon Grill,Expensive,Little Italy,9:30,17:00,1,FALSE
+269,Korean,Five Guys,Expensive,Flushing,10:00,16:00,3,TRUE
+270,Indian,Big Wong,Cheap,Lower East Side,9:00,20:00,5,FALSE
+271,Spanish,Kimura,Expensive,Chelsea,10:00,18:00,4,TRUE
+272,Indian,Gelso & Grand,Expensive,Upper East Side,11:30,21:00,4,TRUE
+273,Spanish,Bonqueria,Expensive,Upper West Side,10:00,20:00,3,TRUE
+274,Thai,Essential by Chris,Cheap,Soho,9:00,18:00,5,FALSE
+275,Mexican,ilili,Expensive,Soho,11:00,18:00,3,TRUE
+276,Chinese,Bonqueria,Medium,Tribeca,10:00,20:00,4,FALSE
+277,Spanish,Antoya,Cheap,Upper East Side,10:00,16:00,4,FALSE
+278,Thai,ilili,Medium,Upper East Side,9:30,21:00,4,FALSE
+279,Japanese,Wendy's,Cheap,Upper East Side,9:00,20:00,5,TRUE
+280,Italian,Su Jeo,Medium,Little Italy,11:30,21:00,5,FALSE
+281,Spanish,Five Guys,Cheap,Tribeca,9:30,18:00,5,FALSE
+282,Thai,Bo Ky,Expensive,West Village,9:30,16:00,2,TRUE
+283,Italian,MayRee,Cheap,Tribeca,9:30,17:00,5,FALSE
+284,Spanish,Tartinery,Expensive,Upper East Side,11:30,21:00,3,FALSE
+285,Korean,Big Wong,Expensive,Upper East Side,10:30,17:00,3,FALSE
+286,Korean,Antoya,Medium,Chelsea,11:30,17:00,1,FALSE
+287,Mexican,Bo Ky,Cheap,Soho,9:30,16:00,1,TRUE
+288,Italian,Kimura,Medium,Chelsea,10:00,17:00,2,FALSE
+289,Korean,Five Guys,Cheap,Gramercy,11:30,21:00,2,FALSE
+290,Spanish,Gelso & Grand,Medium,Gramercy,9:30,21:00,1,FALSE
+291,Mexican,Big Wong,Medium,Gramercy,10:00,17:00,2,TRUE
+292,Indian,Su Jeo,Medium,Flushing,9:30,16:00,1,FALSE
+293,Indian,ilili,Medium,Little Italy,9:30,20:00,1,TRUE
+294,Korean,Five Guys,Medium,Lower East Side,10:00,18:00,3,TRUE
+295,Chinese,MayRee,Expensive,Chelsea,10:30,20:00,4,TRUE
+296,Japanese,Witherspoon Grill,Medium,Soho,11:00,17:00,1,TRUE
+297,Thai,Bo Ky,Cheap,West Village,9:30,16:00,5,FALSE
+298,Chinese,Gelso & Grand,Cheap,Flushing,11:00,17:00,2,TRUE
+299,Korean,Gelso & Grand,Medium,Lower East Side,11:30,20:00,1,TRUE
+300,Thai,Gelso & Grand,Expensive,Upper West Side,11:30,16:00,1,FALSE
+301,Spanish,Kimura,Cheap,Greenwich Village,10:00,20:00,2,TRUE
+302,Indian,Antoya,Expensive,Little Italy,10:00,17:00,1,TRUE
+303,Thai,Don Angie,Expensive,Upper East Side,10:30,17:00,2,TRUE
+304,Japanese,Five Guys,Expensive,Flushing,11:00,18:00,1,FALSE
+305,Chinese,Take31,Cheap,Chelsea,9:30,21:00,5,TRUE
+306,Mexican,Fish Cheeks,Medium,Soho,10:00,16:00,2,TRUE
+307,Thai,Essential by Chris,Expensive,Greenwich Village,10:00,20:00,5,FALSE
+308,Mexican,Take31,Medium,Tribeca,10:00,16:00,2,FALSE
+309,Thai,Wendy's,Medium,Flushing,10:30,18:00,4,TRUE
+310,Spanish,Kimura,Cheap,Soho,9:30,21:00,1,TRUE
+311,Korean,Gelso & Grand,Cheap,Little Italy,11:30,17:00,4,FALSE
+312,Korean,Kimura,Cheap,Tribeca,9:30,17:00,1,FALSE
+313,Italian,Temple Court,Medium,West Village,11:30,17:00,1,FALSE
+314,Spanish,ilili,Cheap,West Village,11:00,20:00,5,TRUE
+315,Thai,Temple Court,Medium,Upper West Side,10:00,20:00,5,FALSE
+316,Chinese,Hello Saigon,Expensive,Greenwich Village,9:30,16:00,4,TRUE
+317,Thai,Kimura,Expensive,Upper East Side,10:00,21:00,4,FALSE
+318,Japanese,Big Wong,Expensive,Greenwich Village,10:00,17:00,4,TRUE
+319,Mexican,Essential by Chris,Medium,East Village,11:30,17:00,4,TRUE
+320,Chinese,Take31,Cheap,East Village,9:00,20:00,1,FALSE
+321,Spanish,Kimura,Expensive,Gramercy,10:00,18:00,3,FALSE
+322,Thai,Don Angie,Expensive,Lower East Side,11:00,17:00,1,TRUE
+323,Chinese,Don Angie,Medium,East Village,9:30,21:00,5,TRUE
+324,Spanish,Tartinery,Medium,Flushing,11:30,18:00,3,FALSE
+325,Spanish,Fish Cheeks,Expensive,Flushing,10:00,18:00,1,FALSE
+326,Indian,Bonqueria,Expensive,Greenwich Village,10:00,21:00,1,FALSE
+327,Korean,Five Guys,Medium,West Village,11:00,17:00,1,FALSE
+328,Spanish,Wendy's,Medium,Little Italy,9:00,20:00,4,TRUE
+329,Italian,Big Wong,Medium,Lower East Side,10:00,20:00,5,TRUE
+330,Indian,Su Jeo,Cheap,Tribeca,9:00,16:00,3,TRUE
+331,Mexican,Witherspoon Grill,Expensive,East Village,10:00,16:00,1,TRUE
+332,Mexican,Tartinery,Cheap,Greenwich Village,9:00,20:00,2,TRUE
+333,Spanish,Wendy's,Expensive,Upper East Side,11:00,17:00,2,TRUE
+334,Indian,Big Wong,Cheap,Gramercy,9:30,16:00,5,TRUE
+335,Spanish,Don Angie,Cheap,Soho,11:30,20:00,2,TRUE
+336,Spanish,MayRee,Medium,Lower East Side,9:00,17:00,4,FALSE
+337,Korean,Don Angie,Cheap,East Village,9:00,18:00,5,TRUE
+338,Chinese,Big Wong,Cheap,Little Italy,11:00,20:00,5,FALSE
+339,Thai,Kimura,Cheap,Upper West Side,9:00,20:00,5,FALSE
+340,Korean,Tartinery,Expensive,Upper West Side,9:00,18:00,1,TRUE
+341,Spanish,Bo Ky,Medium,Tribeca,11:30,16:00,2,FALSE
+342,Spanish,Bo Ky,Medium,Lower East Side,10:00,18:00,3,FALSE
+343,Mexican,Wendy's,Expensive,West Village,9:30,20:00,3,TRUE
+344,Korean,Hello Saigon,Expensive,Flushing,9:00,17:00,1,TRUE
+345,Italian,ilili,Medium,Lower East Side,9:00,16:00,4,TRUE
+346,Thai,MayRee,Cheap,Lower East Side,10:00,18:00,3,TRUE
+347,Indian,Antoya,Medium,Chelsea,10:00,17:00,4,FALSE
+348,Korean,Chipotle,Expensive,Upper West Side,9:30,20:00,4,TRUE
+349,Spanish,Hello Saigon,Medium,Little Italy,11:30,18:00,3,FALSE
+350,Japanese,Antoya,Expensive,Upper East Side,10:00,17:00,5,FALSE
+351,Indian,Hello Saigon,Expensive,Greenwich Village,9:00,18:00,5,FALSE
+352,Spanish,Tartinery,Medium,Greenwich Village,10:00,17:00,2,FALSE
+353,Japanese,Fish Cheeks,Expensive,West Village,11:00,21:00,5,FALSE
+354,Thai,Five Guys,Expensive,Gramercy,9:30,20:00,3,FALSE
+355,Mexican,Witherspoon Grill,Cheap,Upper West Side,11:30,18:00,4,TRUE
+356,Indian,Essential by Chris,Expensive,Lower East Side,9:30,17:00,3,FALSE
+357,Spanish,Fish Cheeks,Medium,Tribeca,9:30,20:00,2,TRUE
+358,Mexican,ilili,Expensive,East Village,10:00,21:00,1,TRUE
+359,Indian,Essential by Chris,Expensive,Little Italy,10:00,17:00,2,FALSE
+360,Korean,Su Jeo,Cheap,Gramercy,11:30,20:00,4,TRUE
+361,Italian,ilili,Medium,West Village,9:30,17:00,3,TRUE
+362,Japanese,Kimura,Medium,Greenwich Village,10:30,18:00,4,TRUE
+363,Thai,Hello Saigon,Expensive,West Village,11:30,20:00,4,FALSE
+364,Korean,Su Jeo,Cheap,Little Italy,9:30,20:00,1,TRUE
+365,Japanese,Tartinery,Cheap,Flushing,11:30,17:00,2,FALSE
+366,Mexican,Gelso & Grand,Cheap,Soho,9:00,17:00,1,FALSE
+367,Japanese,Five Guys,Expensive,Soho,10:00,20:00,1,TRUE
+368,Thai,Hello Saigon,Expensive,Upper East Side,9:00,18:00,4,FALSE
+369,Mexican,Essential by Chris,Cheap,Chelsea,11:00,18:00,5,FALSE
+370,Chinese,MayRee,Expensive,East Village,10:00,21:00,5,TRUE
+371,Indian,MayRee,Expensive,Chelsea,9:30,17:00,4,TRUE
+372,Spanish,Bonqueria,Cheap,West Village,11:30,20:00,4,FALSE
+373,Indian,Fish Cheeks,Medium,Little Italy,9:30,20:00,4,FALSE
+374,Chinese,ilili,Medium,Little Italy,11:30,20:00,4,FALSE
+375,Spanish,Gelso & Grand,Medium,Flushing,10:00,18:00,5,TRUE
+376,Italian,Bo Ky,Cheap,Upper East Side,9:00,16:00,5,TRUE
+377,Indian,Wendy's,Expensive,East Village,11:00,17:00,3,FALSE
+378,Spanish,Tartinery,Cheap,Tribeca,9:00,20:00,2,TRUE
+379,Chinese,Fish Cheeks,Expensive,West Village,9:00,17:00,2,TRUE
+380,Italian,Antoya,Medium,East Village,10:30,20:00,5,FALSE
+381,Indian,Antoya,Cheap,Soho,10:30,17:00,1,TRUE
+382,Spanish,Bonqueria,Expensive,Chelsea,11:30,21:00,5,TRUE
+383,Italian,Bo Ky,Medium,East Village,11:00,21:00,2,TRUE
+384,Indian,Antoya,Cheap,East Village,11:00,21:00,4,FALSE
+385,Japanese,Big Wong,Expensive,Lower East Side,11:30,17:00,3,TRUE
+386,Chinese,Hello Saigon,Medium,Soho,11:30,21:00,4,FALSE
+387,Spanish,Su Jeo,Expensive,Flushing,11:30,16:00,4,TRUE
+388,Thai,Gelso & Grand,Expensive,Tribeca,9:00,20:00,5,FALSE
+389,Indian,Tartinery,Medium,Upper West Side,11:30,18:00,2,TRUE
+390,Korean,Five Guys,Medium,Tribeca,9:30,17:00,5,TRUE
+391,Spanish,Bonqueria,Expensive,Gramercy,10:00,16:00,2,TRUE
+392,Italian,Five Guys,Cheap,Tribeca,11:00,21:00,1,TRUE
+393,Thai,Essential by Chris,Cheap,West Village,11:00,18:00,1,TRUE
+394,Thai,Hello Saigon,Cheap,East Village,11:00,18:00,1,TRUE
+395,Spanish,Su Jeo,Medium,East Village,11:00,18:00,2,TRUE
+396,Indian,Don Angie,Cheap,Flushing,9:30,17:00,5,FALSE
+397,Spanish,Temple Court,Expensive,Lower East Side,11:30,17:00,1,TRUE
+398,Japanese,Don Angie,Medium,Chelsea,11:00,18:00,2,FALSE
+399,Korean,Chipotle,Cheap,Chelsea,9:00,21:00,1,TRUE
+400,Chinese,Witherspoon Grill,Medium,Little Italy,9:00,18:00,2,TRUE
+401,Mexican,Witherspoon Grill,Medium,Upper East Side,11:30,20:00,5,TRUE
+402,Korean,Tartinery,Medium,Chelsea,9:30,21:00,2,FALSE
+403,Japanese,Tartinery,Cheap,West Village,11:30,18:00,5,FALSE
+404,Chinese,ilili,Medium,Tribeca,11:30,20:00,3,FALSE
+405,Thai,Wendy's,Expensive,Upper East Side,11:30,18:00,2,FALSE
+406,Japanese,Fish Cheeks,Cheap,Gramercy,9:30,20:00,2,FALSE
+407,Chinese,Bo Ky,Expensive,Greenwich Village,10:00,17:00,5,FALSE
+408,Mexican,Big Wong,Medium,Upper East Side,11:30,16:00,2,TRUE
+409,Thai,Kimura,Cheap,Greenwich Village,11:00,17:00,3,FALSE
+410,Chinese,Five Guys,Expensive,Upper East Side,11:30,20:00,5,TRUE
+411,Mexican,Wendy's,Medium,Little Italy,9:30,18:00,3,FALSE
+412,Chinese,Fish Cheeks,Expensive,Gramercy,10:00,16:00,4,TRUE
+413,Japanese,Gelso & Grand,Medium,Lower East Side,9:30,18:00,5,TRUE
+414,Mexican,Five Guys,Expensive,Gramercy,10:00,21:00,2,TRUE
+415,Japanese,Su Jeo,Expensive,Flushing,11:30,16:00,4,TRUE
+416,Italian,Five Guys,Medium,Lower East Side,11:30,18:00,1,FALSE
+417,Italian,Su Jeo,Medium,Little Italy,11:30,20:00,1,TRUE
+418,Italian,Bo Ky,Cheap,Lower East Side,9:00,18:00,4,FALSE
+419,Thai,Fish Cheeks,Medium,Upper East Side,10:00,17:00,4,FALSE
+420,Spanish,Antoya,Medium,Soho,9:00,17:00,4,TRUE
+421,Spanish,Chipotle,Medium,East Village,10:00,16:00,1,TRUE
+422,Korean,Five Guys,Expensive,Tribeca,9:30,16:00,3,FALSE
+423,Japanese,Tartinery,Medium,Soho,11:00,16:00,5,FALSE
+424,Thai,Witherspoon Grill,Expensive,Upper East Side,10:00,16:00,2,TRUE
+425,Japanese,Bonqueria,Expensive,Lower East Side,9:30,17:00,4,TRUE
+426,Mexican,Five Guys,Cheap,Little Italy,11:30,18:00,5,FALSE
+427,Japanese,Kimura,Medium,Little Italy,11:30,16:00,1,TRUE
+428,Spanish,Hello Saigon,Expensive,Little Italy,9:30,18:00,4,TRUE
+429,Chinese,Wendy's,Cheap,West Village,11:30,16:00,3,TRUE
+430,Thai,Temple Court,Cheap,West Village,10:30,17:00,1,FALSE
+431,Italian,Five Guys,Medium,Greenwich Village,10:00,16:00,5,FALSE
+432,Spanish,Witherspoon Grill,Cheap,Greenwich Village,11:30,17:00,4,FALSE
+433,Korean,Take31,Cheap,Upper East Side,11:00,16:00,1,TRUE
+434,Spanish,Fish Cheeks,Expensive,West Village,9:30,17:00,3,FALSE
+435,Korean,Chipotle,Expensive,Greenwich Village,9:00,17:00,5,TRUE
+436,Chinese,Chipotle,Medium,Soho,9:30,21:00,1,TRUE
+437,Indian,Big Wong,Expensive,Upper East Side,10:00,17:00,1,TRUE
+438,Spanish,Tartinery,Cheap,Greenwich Village,10:00,17:00,3,TRUE
+439,Spanish,Take31,Expensive,Upper East Side,9:00,18:00,4,FALSE
+440,Spanish,Don Angie,Cheap,Gramercy,9:00,21:00,3,FALSE
+441,Italian,Big Wong,Expensive,Little Italy,10:00,16:00,5,TRUE
+442,Japanese,Witherspoon Grill,Expensive,Flushing,11:00,20:00,1,TRUE
+443,Chinese,Don Angie,Medium,Little Italy,10:00,18:00,1,FALSE
+444,Japanese,Bo Ky,Cheap,Gramercy,9:30,17:00,1,FALSE
+445,Japanese,Chipotle,Expensive,Flushing,11:00,20:00,3,FALSE
+446,Chinese,Essential by Chris,Medium,Soho,11:00,17:00,1,TRUE
+447,Korean,Bonqueria,Medium,Gramercy,10:30,20:00,5,TRUE
+448,Korean,Antoya,Expensive,Chelsea,9:00,20:00,1,TRUE
+449,Thai,Big Wong,Expensive,Flushing,9:30,17:00,4,FALSE
+450,Spanish,Gelso & Grand,Cheap,Tribeca,10:00,20:00,2,FALSE
+451,Spanish,MayRee,Expensive,Flushing,11:00,16:00,5,TRUE
+452,Korean,Chipotle,Expensive,Soho,9:00,17:00,3,FALSE
+453,Spanish,Hello Saigon,Medium,Upper East Side,10:30,20:00,5,TRUE
+454,Chinese,Bonqueria,Expensive,Tribeca,9:30,16:00,5,FALSE
+455,Indian,Fish Cheeks,Medium,Upper West Side,10:00,17:00,1,TRUE
+456,Chinese,Gelso & Grand,Cheap,Lower East Side,11:00,20:00,3,TRUE
+457,Chinese,Tartinery,Cheap,Soho,11:30,21:00,4,TRUE
+458,Japanese,Five Guys,Cheap,Greenwich Village,10:00,20:00,2,FALSE
+459,Italian,Essential by Chris,Expensive,Gramercy,11:00,18:00,1,TRUE
+460,Japanese,ilili,Medium,Chelsea,11:00,16:00,5,TRUE
+461,Mexican,Bo Ky,Medium,Greenwich Village,9:00,17:00,2,FALSE
+462,Indian,Bo Ky,Cheap,East Village,11:30,17:00,4,TRUE
+463,Mexican,Fish Cheeks,Medium,Chelsea,9:00,17:00,1,TRUE
+464,Spanish,Hello Saigon,Medium,Greenwich Village,9:30,17:00,2,FALSE
+465,Chinese,Bonqueria,Cheap,Greenwich Village,9:30,16:00,5,FALSE
+466,Spanish,Tartinery,Cheap,Tribeca,9:30,17:00,1,FALSE
+467,Indian,Tartinery,Medium,Greenwich Village,9:30,18:00,3,TRUE
+468,Korean,Bonqueria,Medium,Gramercy,11:30,21:00,5,FALSE
+469,Thai,Don Angie,Expensive,Lower East Side,9:00,20:00,2,TRUE
+470,Korean,Don Angie,Expensive,Flushing,11:00,16:00,3,TRUE
+471,Chinese,Take31,Medium,West Village,11:30,17:00,5,FALSE
+472,Mexican,MayRee,Medium,Tribeca,11:00,20:00,2,TRUE
+473,Italian,Su Jeo,Cheap,Upper West Side,9:30,18:00,3,FALSE
+474,Japanese,Kimura,Expensive,Lower East Side,9:30,16:00,5,TRUE
+475,Japanese,Kimura,Expensive,Greenwich Village,9:30,18:00,1,FALSE
+476,Mexican,Witherspoon Grill,Medium,Lower East Side,9:30,20:00,4,FALSE
+477,Spanish,Kimura,Cheap,Flushing,11:30,20:00,2,TRUE
+478,Chinese,Five Guys,Cheap,Chelsea,9:00,17:00,2,FALSE
+479,Mexican,Five Guys,Expensive,Gramercy,10:00,21:00,2,FALSE
+480,Japanese,ilili,Medium,East Village,11:00,16:00,1,TRUE
+481,Japanese,Essential by Chris,Cheap,Soho,10:00,16:00,5,FALSE
+482,Japanese,Tartinery,Cheap,Flushing,11:30,21:00,5,FALSE
+483,Thai,Fish Cheeks,Expensive,Chelsea,11:30,18:00,2,TRUE
+484,Japanese,Antoya,Expensive,Tribeca,10:00,18:00,5,FALSE
+485,Japanese,Take31,Medium,Little Italy,9:00,16:00,4,TRUE
+486,Thai,Kimura,Medium,Upper West Side,11:00,17:00,3,FALSE
+487,Korean,ilili,Medium,West Village,11:30,20:00,3,FALSE
+488,Spanish,Gelso & Grand,Cheap,Upper East Side,10:00,17:00,4,TRUE
+489,Italian,Don Angie,Expensive,West Village,11:30,17:00,1,FALSE
+490,Japanese,Su Jeo,Medium,Tribeca,11:00,20:00,5,FALSE
+491,Japanese,Don Angie,Cheap,Lower East Side,9:30,20:00,5,FALSE
+492,Spanish,Five Guys,Medium,Upper West Side,11:30,18:00,2,FALSE
+493,Mexican,Bo Ky,Cheap,Lower East Side,11:00,20:00,1,FALSE
+494,Japanese,Su Jeo,Cheap,Upper West Side,10:00,16:00,5,TRUE
+495,Indian,Five Guys,Expensive,Flushing,10:00,17:00,3,TRUE
+496,Indian,Witherspoon Grill,Medium,Soho,11:00,16:00,2,FALSE
+497,Italian,MayRee,Medium,Flushing,9:30,20:00,3,FALSE
+498,Spanish,Hello Saigon,Cheap,Lower East Side,11:30,16:00,1,TRUE
+499,Mexican,Temple Court,Medium,East Village,11:30,20:00,5,FALSE
+500,Indian,ilili,Cheap,Soho,11:00,18:00,2,FALSE
+501,Chinese,Don Angie,Expensive,West Village,9:00,16:00,1,TRUE
+502,Korean,Witherspoon Grill,Medium,Upper West Side,11:00,16:00,4,TRUE
+503,Japanese,Kimura,Cheap,West Village,11:30,17:00,2,FALSE
+504,Chinese,Take31,Expensive,Upper West Side,10:00,17:00,4,FALSE
+505,Korean,Antoya,Cheap,Soho,9:00,18:00,3,TRUE
+506,Japanese,Tartinery,Expensive,Gramercy,9:30,16:00,1,TRUE
+507,Chinese,Don Angie,Expensive,Greenwich Village,11:30,17:00,5,FALSE
+508,Mexican,Five Guys,Medium,Tribeca,9:30,18:00,1,FALSE
+509,Korean,Five Guys,Medium,Greenwich Village,9:30,18:00,2,FALSE
+510,Spanish,Hello Saigon,Medium,West Village,10:00,16:00,1,TRUE
+511,Korean,Antoya,Expensive,Gramercy,10:00,20:00,5,FALSE
+512,Korean,Witherspoon Grill,Cheap,Lower East Side,11:00,16:00,2,FALSE
+513,Italian,Temple Court,Expensive,East Village,9:30,16:00,1,TRUE
+514,Chinese,Essential by Chris,Medium,East Village,9:00,17:00,1,TRUE
+515,Thai,Witherspoon Grill,Expensive,Soho,9:00,20:00,3,TRUE
+516,Thai,Bonqueria,Cheap,Tribeca,9:00,20:00,4,FALSE
+517,Mexican,ilili,Medium,West Village,10:00,21:00,1,FALSE
+518,Mexican,Don Angie,Medium,Upper East Side,11:30,18:00,5,FALSE
+519,Indian,Kimura,Cheap,Gramercy,11:00,17:00,1,FALSE
+520,Korean,Essential by Chris,Cheap,Little Italy,9:00,20:00,1,FALSE
+521,Chinese,Gelso & Grand,Expensive,West Village,11:00,20:00,1,FALSE
+522,Thai,Hello Saigon,Medium,Soho,10:30,21:00,3,FALSE
+523,Italian,Chipotle,Expensive,Flushing,10:30,20:00,1,FALSE
+524,Mexican,Fish Cheeks,Cheap,West Village,9:00,20:00,4,TRUE
+525,Korean,Big Wong,Cheap,Flushing,9:00,18:00,4,FALSE
+526,Thai,Gelso & Grand,Expensive,Gramercy,9:30,20:00,5,TRUE
+527,Indian,Chipotle,Medium,Gramercy,9:30,21:00,1,TRUE
+528,Spanish,Hello Saigon,Medium,Tribeca,9:30,18:00,1,FALSE
+529,Chinese,Wendy's,Medium,Lower East Side,9:30,17:00,1,FALSE
+530,Mexican,Take31,Cheap,Lower East Side,10:00,18:00,5,FALSE
+531,Thai,ilili,Cheap,Upper East Side,9:00,17:00,1,TRUE
+532,Japanese,Fish Cheeks,Cheap,Gramercy,11:00,18:00,3,FALSE
+533,Indian,Witherspoon Grill,Expensive,Tribeca,9:30,17:00,5,TRUE
+534,Thai,MayRee,Expensive,Greenwich Village,9:00,20:00,1,FALSE
+535,Chinese,Tartinery,Cheap,Little Italy,11:30,17:00,4,FALSE
+536,Indian,Essential by Chris,Cheap,Soho,9:30,18:00,4,FALSE
+537,Indian,Temple Court,Cheap,Chelsea,9:00,17:00,2,FALSE
+538,Thai,Temple Court,Cheap,Lower East Side,9:00,18:00,3,FALSE
+539,Japanese,Bonqueria,Expensive,Tribeca,9:00,16:00,1,FALSE
+540,Mexican,Tartinery,Medium,Tribeca,9:00,16:00,1,TRUE
+541,Mexican,Chipotle,Expensive,Gramercy,9:00,20:00,3,TRUE
+542,Spanish,Fish Cheeks,Expensive,Soho,11:00,20:00,3,TRUE
+543,Japanese,Five Guys,Cheap,Tribeca,10:00,20:00,1,FALSE
+544,Mexican,Fish Cheeks,Expensive,Greenwich Village,10:00,21:00,2,FALSE
+545,Japanese,Bonqueria,Expensive,Little Italy,11:00,17:00,3,FALSE
+546,Korean,Hello Saigon,Medium,Tribeca,11:00,17:00,1,TRUE
+547,Indian,ilili,Expensive,Upper East Side,10:30,20:00,5,FALSE
+548,Italian,Essential by Chris,Expensive,Upper East Side,10:00,17:00,4,FALSE
+549,Japanese,Wendy's,Medium,Upper West Side,10:30,21:00,4,FALSE
+550,Italian,Fish Cheeks,Medium,West Village,10:00,16:00,1,TRUE
+551,Thai,Essential by Chris,Cheap,Little Italy,11:00,20:00,3,FALSE
+552,Japanese,Su Jeo,Medium,Little Italy,9:00,18:00,3,TRUE
+553,Japanese,Five Guys,Medium,Chelsea,11:30,21:00,5,FALSE
+554,Korean,MayRee,Medium,Flushing,9:30,21:00,5,TRUE
+555,Japanese,Bonqueria,Medium,Upper West Side,9:00,21:00,1,TRUE
+556,Indian,Bo Ky,Medium,Flushing,9:30,18:00,1,FALSE
+557,Chinese,Witherspoon Grill,Cheap,Upper East Side,11:00,21:00,4,TRUE
+558,Korean,Take31,Medium,Tribeca,11:30,20:00,4,TRUE
+559,Chinese,ilili,Expensive,Lower East Side,9:00,20:00,3,FALSE
+560,Korean,MayRee,Medium,Upper East Side,9:30,17:00,5,TRUE
+561,Japanese,Witherspoon Grill,Expensive,Tribeca,10:30,20:00,5,FALSE
+562,Spanish,Don Angie,Medium,Upper West Side,10:00,18:00,1,TRUE
+563,Mexican,Don Angie,Expensive,Greenwich Village,9:00,16:00,4,TRUE
+564,Indian,Bo Ky,Expensive,Chelsea,10:00,16:00,4,FALSE
+565,Korean,Su Jeo,Medium,Upper West Side,9:00,17:00,3,FALSE
+566,Mexican,Tartinery,Expensive,Upper West Side,9:30,17:00,4,FALSE
+567,Korean,Chipotle,Cheap,East Village,9:00,20:00,2,TRUE
+568,Korean,Tartinery,Medium,East Village,9:00,18:00,4,FALSE
+569,Italian,Bo Ky,Cheap,Greenwich Village,10:00,20:00,5,FALSE
+570,Thai,Chipotle,Expensive,Little Italy,9:00,16:00,4,TRUE
+571,Spanish,Gelso & Grand,Medium,Tribeca,9:00,16:00,3,FALSE
+572,Indian,Su Jeo,Expensive,Chelsea,10:00,17:00,2,TRUE
+573,Chinese,Five Guys,Cheap,West Village,10:00,18:00,4,FALSE
+574,Spanish,Kimura,Medium,Tribeca,9:00,21:00,3,TRUE
+575,Chinese,Don Angie,Cheap,Upper West Side,9:00,17:00,2,TRUE
+576,Italian,Fish Cheeks,Expensive,Upper East Side,10:30,21:00,5,TRUE
+577,Korean,Temple Court,Expensive,West Village,9:30,20:00,2,FALSE
+578,Chinese,Wendy's,Cheap,Little Italy,10:00,17:00,3,TRUE
+579,Mexican,Bo Ky,Expensive,Gramercy,9:30,17:00,2,TRUE
+580,Korean,Antoya,Medium,Tribeca,9:00,20:00,5,FALSE
+581,Thai,Tartinery,Medium,Lower East Side,11:30,18:00,3,FALSE
+582,Spanish,Take31,Cheap,Upper West Side,10:00,17:00,2,FALSE
+583,Japanese,Antoya,Cheap,West Village,11:00,16:00,2,TRUE
+584,Korean,Chipotle,Medium,East Village,10:00,17:00,5,FALSE
+585,Japanese,Tartinery,Medium,Chelsea,9:00,20:00,2,FALSE
+586,Spanish,Hello Saigon,Cheap,Lower East Side,9:30,18:00,3,FALSE
+587,Italian,Fish Cheeks,Expensive,East Village,9:00,18:00,3,FALSE
+588,Spanish,Gelso & Grand,Medium,Chelsea,10:00,18:00,3,FALSE
+589,Korean,Su Jeo,Expensive,Greenwich Village,10:00,18:00,2,FALSE
+590,Thai,Chipotle,Cheap,West Village,11:30,20:00,4,FALSE
+591,Thai,Tartinery,Cheap,Chelsea,9:00,17:00,2,FALSE
+592,Indian,MayRee,Medium,Soho,10:00,20:00,4,TRUE
+593,Japanese,Kimura,Cheap,Greenwich Village,10:00,17:00,3,FALSE
+594,Mexican,Temple Court,Expensive,Gramercy,9:30,17:00,1,TRUE
+595,Korean,Five Guys,Expensive,Soho,10:00,20:00,5,FALSE
+596,Chinese,Essential by Chris,Medium,Lower East Side,9:30,21:00,2,FALSE
+597,Japanese,Bonqueria,Medium,Tribeca,11:00,17:00,2,TRUE
+598,Korean,Five Guys,Expensive,Chelsea,11:00,17:00,5,FALSE
+599,Italian,Gelso & Grand,Cheap,Upper West Side,9:30,18:00,3,TRUE
+600,Chinese,Essential by Chris,Expensive,Soho,10:00,18:00,4,TRUE
+601,Italian,MayRee,Medium,Gramercy,11:30,20:00,4,FALSE
+602,Chinese,Antoya,Expensive,Upper West Side,9:00,18:00,4,TRUE
+603,Chinese,Witherspoon Grill,Cheap,Upper West Side,9:30,20:00,4,TRUE
+604,Thai,Five Guys,Cheap,West Village,10:00,17:00,1,TRUE
+605,Italian,Antoya,Cheap,Tribeca,10:30,20:00,3,TRUE
+606,Chinese,Essential by Chris,Cheap,Soho,10:00,18:00,2,FALSE
+607,Italian,Five Guys,Expensive,Chelsea,10:00,18:00,5,FALSE
+608,Japanese,Big Wong,Medium,Upper East Side,10:30,21:00,3,TRUE
+609,Japanese,Temple Court,Expensive,West Village,9:00,16:00,1,TRUE
+610,Thai,ilili,Medium,Upper West Side,9:30,20:00,5,TRUE
+611,Korean,Su Jeo,Expensive,Chelsea,9:30,18:00,4,FALSE
+612,Mexican,Big Wong,Medium,Tribeca,9:30,16:00,5,FALSE
+613,Italian,Chipotle,Medium,East Village,11:00,17:00,4,TRUE
+614,Japanese,Bonqueria,Cheap,Lower East Side,10:00,21:00,5,FALSE
+615,Korean,Big Wong,Expensive,Little Italy,10:00,16:00,5,TRUE
+616,Thai,Fish Cheeks,Expensive,Lower East Side,10:00,20:00,5,TRUE
+617,Japanese,Gelso & Grand,Expensive,Upper East Side,11:30,16:00,5,FALSE
+618,Mexican,Don Angie,Cheap,Upper East Side,10:30,17:00,5,FALSE
+619,Indian,Essential by Chris,Cheap,Upper East Side,10:30,20:00,3,FALSE
+620,Japanese,Wendy's,Medium,Little Italy,9:30,16:00,4,FALSE
+621,Korean,Big Wong,Expensive,Upper West Side,11:30,17:00,4,FALSE
+622,Chinese,Kimura,Cheap,Little Italy,11:30,20:00,3,FALSE
+623,Chinese,Su Jeo,Medium,Lower East Side,10:00,16:00,2,TRUE
+624,Japanese,Take31,Expensive,Chelsea,11:30,17:00,3,FALSE
+625,Thai,Hello Saigon,Expensive,East Village,10:00,16:00,2,TRUE
+626,Korean,Essential by Chris,Expensive,Little Italy,10:00,21:00,2,FALSE
+627,Spanish,ilili,Expensive,Little Italy,9:00,17:00,1,FALSE
+628,Mexican,Chipotle,Expensive,Greenwich Village,9:00,18:00,1,FALSE
+629,Japanese,Fish Cheeks,Cheap,Tribeca,11:00,21:00,5,FALSE
+630,Indian,Take31,Cheap,Little Italy,11:00,17:00,4,FALSE
+631,Korean,Witherspoon Grill,Cheap,Upper East Side,11:00,17:00,1,TRUE
+632,Italian,Tartinery,Medium,Soho,11:30,18:00,4,TRUE
+633,Italian,Su Jeo,Medium,Upper East Side,9:00,17:00,5,TRUE
+634,Mexican,Five Guys,Expensive,Greenwich Village,9:00,20:00,3,TRUE
+635,Japanese,Fish Cheeks,Expensive,Chelsea,10:00,18:00,3,FALSE
+636,Chinese,Gelso & Grand,Expensive,Chelsea,10:00,20:00,2,FALSE
+637,Thai,Five Guys,Expensive,Upper West Side,9:00,17:00,2,TRUE
+638,Japanese,Fish Cheeks,Cheap,West Village,11:30,20:00,1,FALSE
+639,Indian,Gelso & Grand,Medium,Upper West Side,11:30,20:00,5,TRUE
+640,Spanish,Gelso & Grand,Expensive,Tribeca,11:00,20:00,2,FALSE
+641,Korean,Hello Saigon,Expensive,Upper West Side,9:00,21:00,4,FALSE
+642,Chinese,Antoya,Cheap,East Village,9:00,17:00,5,FALSE
+643,Indian,Tartinery,Cheap,Flushing,11:00,16:00,5,TRUE
+644,Thai,Bo Ky,Expensive,Greenwich Village,10:00,20:00,2,FALSE
+645,Japanese,Witherspoon Grill,Expensive,Gramercy,9:30,18:00,1,FALSE
+646,Mexican,Witherspoon Grill,Expensive,East Village,11:30,17:00,3,TRUE
+647,Korean,Wendy's,Cheap,West Village,11:00,20:00,3,FALSE
+648,Chinese,ilili,Cheap,Upper West Side,9:00,21:00,2,FALSE
+649,Spanish,Bonqueria,Expensive,Chelsea,10:00,16:00,2,TRUE
+650,Chinese,Bo Ky,Expensive,Lower East Side,9:30,21:00,4,TRUE
+651,Chinese,ilili,Cheap,West Village,9:00,18:00,3,TRUE
+652,Indian,Witherspoon Grill,Cheap,Greenwich Village,11:00,17:00,5,TRUE
+653,Indian,Tartinery,Expensive,East Village,10:00,18:00,1,TRUE
+654,Italian,Fish Cheeks,Cheap,West Village,10:00,17:00,5,TRUE
+655,Indian,Five Guys,Medium,Tribeca,9:00,17:00,2,TRUE
+656,Japanese,Su Jeo,Cheap,Chelsea,9:30,18:00,1,FALSE
+657,Japanese,Take31,Medium,Gramercy,10:30,17:00,5,FALSE
+658,Italian,Su Jeo,Cheap,Tribeca,9:30,17:00,5,FALSE
+659,Thai,Witherspoon Grill,Medium,West Village,10:30,21:00,4,TRUE
+660,Thai,Hello Saigon,Expensive,Greenwich Village,10:00,20:00,1,TRUE
+661,Thai,ilili,Cheap,Lower East Side,11:30,18:00,3,TRUE
+662,Thai,Bo Ky,Cheap,Upper West Side,9:30,20:00,4,FALSE
+663,Thai,Don Angie,Medium,Chelsea,9:00,20:00,2,TRUE
+664,Mexican,Don Angie,Medium,Upper West Side,9:00,17:00,5,FALSE
+665,Chinese,Chipotle,Medium,Flushing,9:30,20:00,1,TRUE
+666,Indian,Big Wong,Expensive,Flushing,10:00,21:00,5,FALSE
+667,Mexican,Hello Saigon,Cheap,Little Italy,11:00,20:00,4,TRUE
+668,Italian,Temple Court,Cheap,Soho,9:00,17:00,1,FALSE
+669,Korean,Take31,Expensive,East Village,9:30,17:00,3,FALSE
+670,Japanese,Essential by Chris,Cheap,Little Italy,11:30,20:00,5,FALSE
+671,Italian,Essential by Chris,Medium,Upper East Side,10:00,18:00,1,TRUE
+672,Thai,Su Jeo,Medium,Little Italy,10:00,21:00,4,TRUE
+673,Mexican,Fish Cheeks,Cheap,Tribeca,10:30,20:00,4,FALSE
+674,Mexican,Don Angie,Expensive,East Village,11:30,20:00,5,FALSE
+675,Spanish,ilili,Cheap,West Village,11:00,17:00,2,TRUE
+676,Korean,Bo Ky,Expensive,Tribeca,11:00,18:00,4,FALSE
+677,Chinese,Essential by Chris,Medium,Tribeca,9:30,20:00,1,TRUE
+678,Indian,Don Angie,Expensive,Tribeca,9:00,17:00,1,TRUE
+679,Italian,Take31,Cheap,Soho,9:00,17:00,2,TRUE
+680,Korean,Don Angie,Medium,Flushing,10:00,17:00,3,TRUE
+681,Korean,Bo Ky,Medium,Little Italy,10:00,17:00,1,FALSE
+682,Mexican,Bo Ky,Medium,Lower East Side,11:00,18:00,3,TRUE
+683,Indian,Bo Ky,Medium,Chelsea,9:00,18:00,2,TRUE
+684,Korean,Essential by Chris,Cheap,Upper East Side,10:00,16:00,3,FALSE
+685,Thai,Tartinery,Cheap,Lower East Side,11:00,18:00,3,TRUE
+686,Italian,MayRee,Cheap,Soho,10:30,20:00,4,FALSE
+687,Japanese,Take31,Expensive,West Village,10:00,17:00,4,FALSE
+688,Indian,Bo Ky,Medium,Little Italy,11:30,20:00,2,FALSE
+689,Mexican,MayRee,Cheap,Chelsea,11:30,18:00,5,TRUE
+690,Mexican,Tartinery,Medium,East Village,9:00,20:00,2,FALSE
+691,Spanish,Bo Ky,Cheap,East Village,11:00,20:00,2,FALSE
+692,Mexican,Essential by Chris,Medium,East Village,11:00,17:00,1,FALSE
+693,Chinese,Wendy's,Expensive,Flushing,10:00,20:00,2,TRUE
+694,Spanish,Five Guys,Cheap,Tribeca,10:00,20:00,5,FALSE
+695,Italian,Witherspoon Grill,Medium,Gramercy,11:30,20:00,5,TRUE
+696,Korean,Five Guys,Expensive,West Village,10:00,18:00,5,TRUE
+697,Chinese,Antoya,Medium,West Village,10:00,20:00,2,FALSE
+698,Japanese,Wendy's,Expensive,Little Italy,9:00,20:00,2,FALSE
+699,Italian,Chipotle,Expensive,Lower East Side,10:00,16:00,1,FALSE
+700,Thai,Bo Ky,Medium,Lower East Side,9:00,18:00,1,FALSE
+701,Thai,Witherspoon Grill,Cheap,Chelsea,11:00,20:00,3,FALSE
+702,Japanese,Wendy's,Expensive,Greenwich Village,11:00,17:00,2,TRUE
+703,Thai,Take31,Cheap,Flushing,10:00,16:00,5,TRUE
+704,Spanish,MayRee,Cheap,Upper East Side,10:00,18:00,2,TRUE
+705,Chinese,Chipotle,Expensive,Little Italy,9:30,17:00,1,TRUE
+706,Korean,Essential by Chris,Cheap,Flushing,11:00,21:00,3,TRUE
+707,Japanese,Tartinery,Expensive,Greenwich Village,9:00,18:00,2,FALSE
+708,Indian,Temple Court,Expensive,West Village,11:30,20:00,1,TRUE
+709,Mexican,Essential by Chris,Cheap,West Village,9:30,18:00,2,TRUE
+710,Italian,Fish Cheeks,Cheap,Upper West Side,9:30,20:00,4,FALSE
+711,Japanese,ilili,Medium,Flushing,9:30,20:00,1,TRUE
+712,Mexican,Don Angie,Medium,Little Italy,11:00,17:00,3,FALSE
+713,Spanish,Bonqueria,Cheap,Lower East Side,9:00,21:00,4,FALSE
+714,Japanese,Gelso & Grand,Expensive,Little Italy,10:30,20:00,2,TRUE
+715,Japanese,Witherspoon Grill,Expensive,Upper West Side,9:30,17:00,5,TRUE
+716,Chinese,Su Jeo,Medium,Greenwich Village,11:00,16:00,2,FALSE
+717,Japanese,Essential by Chris,Expensive,Greenwich Village,9:00,20:00,5,FALSE
+718,Spanish,Don Angie,Medium,Soho,10:00,17:00,5,FALSE
+719,Japanese,Fish Cheeks,Medium,Little Italy,9:30,18:00,2,TRUE
+720,Japanese,Take31,Cheap,Soho,9:00,18:00,2,TRUE
+721,Japanese,Gelso & Grand,Expensive,East Village,11:00,18:00,4,FALSE
+722,Spanish,Five Guys,Cheap,West Village,10:30,21:00,1,FALSE
+723,Mexican,Chipotle,Expensive,Chelsea,11:30,17:00,2,TRUE
+724,Indian,ilili,Cheap,Tribeca,9:00,17:00,4,TRUE
+725,Indian,Su Jeo,Cheap,West Village,11:00,21:00,3,FALSE
+726,Italian,Antoya,Expensive,Gramercy,11:00,17:00,5,TRUE
+727,Korean,Antoya,Cheap,Soho,9:30,18:00,3,TRUE
+728,Indian,Hello Saigon,Expensive,Greenwich Village,11:30,20:00,3,TRUE
+729,Spanish,Big Wong,Expensive,East Village,10:00,21:00,5,FALSE
+730,Korean,Chipotle,Expensive,Lower East Side,10:00,18:00,3,TRUE
+731,Chinese,Tartinery,Expensive,East Village,9:30,18:00,1,TRUE
+732,Thai,Big Wong,Medium,East Village,9:30,16:00,4,TRUE
+733,Mexican,Bo Ky,Cheap,Upper East Side,11:30,20:00,1,TRUE
+734,Italian,Take31,Cheap,Upper West Side,9:30,18:00,5,FALSE
+735,Indian,Wendy's,Medium,East Village,11:30,17:00,2,TRUE
+736,Italian,Take31,Medium,Greenwich Village,9:00,16:00,1,FALSE
+737,Korean,Temple Court,Expensive,Soho,11:30,20:00,2,FALSE
+738,Chinese,Kimura,Cheap,Lower East Side,11:30,18:00,1,FALSE
+739,Indian,Witherspoon Grill,Expensive,Flushing,10:00,18:00,1,TRUE
+740,Indian,Witherspoon Grill,Medium,Lower East Side,11:30,17:00,1,FALSE
+741,Mexican,Hello Saigon,Medium,Upper West Side,11:30,18:00,2,FALSE
+742,Mexican,Don Angie,Expensive,Greenwich Village,9:00,16:00,3,FALSE
+743,Spanish,Tartinery,Cheap,Upper West Side,9:30,20:00,2,FALSE
+744,Japanese,Gelso & Grand,Expensive,Upper East Side,10:00,17:00,3,FALSE
+745,Mexican,Wendy's,Medium,Little Italy,11:30,20:00,3,FALSE
+746,Mexican,Five Guys,Medium,Soho,10:00,17:00,3,FALSE
+747,Spanish,Chipotle,Medium,Upper East Side,10:00,18:00,5,FALSE
+748,Korean,Fish Cheeks,Expensive,Tribeca,11:30,17:00,3,FALSE
+749,Indian,MayRee,Cheap,Lower East Side,11:30,16:00,3,TRUE
+750,Thai,Wendy's,Cheap,West Village,11:30,17:00,4,FALSE
+751,Mexican,Bonqueria,Expensive,West Village,11:00,21:00,4,TRUE
+752,Korean,Kimura,Medium,Tribeca,9:00,16:00,5,TRUE
+753,Spanish,Tartinery,Expensive,Soho,10:00,17:00,4,FALSE
+754,Chinese,Bo Ky,Cheap,Soho,9:30,20:00,1,TRUE
+755,Indian,Don Angie,Medium,Chelsea,10:00,18:00,2,TRUE
+756,Korean,Fish Cheeks,Cheap,Gramercy,11:30,20:00,1,FALSE
+757,Korean,Tartinery,Expensive,Flushing,9:30,21:00,1,TRUE
+758,Spanish,Wendy's,Medium,Soho,11:00,16:00,5,TRUE
+759,Indian,Big Wong,Cheap,Gramercy,11:30,18:00,2,FALSE
+760,Chinese,Chipotle,Medium,Tribeca,9:00,16:00,3,TRUE
+761,Japanese,Temple Court,Medium,East Village,11:30,17:00,4,TRUE
+762,Mexican,Essential by Chris,Medium,West Village,9:00,18:00,3,FALSE
+763,Indian,Five Guys,Medium,Lower East Side,10:30,20:00,5,FALSE
+764,Mexican,Take31,Expensive,Soho,11:00,18:00,5,FALSE
+765,Chinese,Witherspoon Grill,Cheap,Upper East Side,9:00,18:00,4,FALSE
+766,Thai,Gelso & Grand,Medium,Soho,10:00,17:00,3,TRUE
+767,Korean,Kimura,Cheap,Tribeca,11:00,18:00,4,TRUE
+768,Mexican,Chipotle,Medium,West Village,10:30,18:00,3,FALSE
+769,Thai,Bo Ky,Cheap,Flushing,10:00,20:00,2,TRUE
+770,Thai,Big Wong,Expensive,Gramercy,10:30,18:00,1,FALSE
+771,Thai,Big Wong,Cheap,Flushing,11:30,20:00,5,FALSE
+772,Korean,Wendy's,Expensive,Flushing,9:00,17:00,4,FALSE
+773,Mexican,Hello Saigon,Cheap,Lower East Side,9:30,20:00,1,FALSE
+774,Thai,Kimura,Cheap,Lower East Side,9:00,20:00,1,TRUE
+775,Japanese,Big Wong,Expensive,Tribeca,11:30,16:00,4,TRUE
+776,Indian,Essential by Chris,Cheap,Gramercy,9:00,16:00,4,FALSE
+777,Spanish,Su Jeo,Cheap,Chelsea,10:30,18:00,5,TRUE
+778,Chinese,Witherspoon Grill,Expensive,East Village,10:30,18:00,2,FALSE
+779,Japanese,ilili,Cheap,West Village,11:30,18:00,4,FALSE
+780,Korean,Chipotle,Medium,Tribeca,11:30,16:00,3,TRUE
+781,Thai,Gelso & Grand,Expensive,Greenwich Village,11:00,18:00,4,TRUE
+782,Mexican,Fish Cheeks,Cheap,Upper West Side,10:00,17:00,3,TRUE
+783,Italian,ilili,Expensive,Little Italy,11:30,16:00,2,TRUE
+784,Italian,Kimura,Expensive,East Village,10:30,18:00,3,TRUE
+785,Korean,ilili,Cheap,Greenwich Village,10:00,17:00,1,TRUE
+786,Thai,Kimura,Cheap,Tribeca,10:00,17:00,4,TRUE
+787,Korean,Temple Court,Medium,Gramercy,11:00,17:00,3,TRUE
+788,Thai,Gelso & Grand,Expensive,Greenwich Village,10:30,18:00,2,FALSE
+789,Chinese,Five Guys,Medium,Upper East Side,9:00,17:00,5,TRUE
+790,Spanish,Temple Court,Medium,Lower East Side,10:00,17:00,3,TRUE
+791,Chinese,Fish Cheeks,Cheap,Upper West Side,11:00,17:00,3,TRUE
+792,Italian,Take31,Medium,Lower East Side,11:00,20:00,2,FALSE
+793,Italian,Bonqueria,Medium,East Village,9:00,17:00,1,TRUE
+794,Indian,Bo Ky,Expensive,Upper West Side,11:30,18:00,5,TRUE
+795,Mexican,Bo Ky,Expensive,Flushing,11:00,21:00,3,TRUE
+796,Japanese,Don Angie,Medium,West Village,11:00,20:00,2,FALSE
+797,Thai,Essential by Chris,Expensive,East Village,11:00,20:00,4,FALSE
+798,Mexican,Chipotle,Medium,West Village,10:00,21:00,1,TRUE
+799,Mexican,Don Angie,Medium,Soho,10:00,20:00,4,TRUE
+800,Korean,Witherspoon Grill,Expensive,West Village,11:30,17:00,3,FALSE
+801,Indian,Witherspoon Grill,Medium,Upper West Side,11:30,17:00,5,FALSE
+802,Spanish,Big Wong,Expensive,East Village,11:00,18:00,5,TRUE
+803,Japanese,Don Angie,Expensive,Upper West Side,11:30,18:00,1,TRUE
+804,Thai,Temple Court,Cheap,Gramercy,10:30,18:00,1,TRUE
+805,Italian,Don Angie,Medium,East Village,11:30,20:00,4,TRUE
+806,Indian,Antoya,Medium,West Village,11:30,17:00,1,FALSE
+807,Japanese,Big Wong,Medium,Chelsea,11:00,20:00,4,FALSE
+808,Italian,Gelso & Grand,Medium,Upper East Side,11:30,20:00,4,FALSE
+809,Indian,Take31,Medium,Little Italy,11:30,20:00,1,FALSE
+810,Chinese,Gelso & Grand,Expensive,Chelsea,9:30,16:00,2,TRUE
+811,Japanese,Bo Ky,Cheap,Soho,11:00,16:00,3,TRUE
+812,Chinese,Fish Cheeks,Medium,Upper East Side,11:30,16:00,3,TRUE
+813,Chinese,Essential by Chris,Cheap,East Village,11:00,17:00,4,TRUE
+814,Mexican,Fish Cheeks,Medium,West Village,10:30,17:00,1,FALSE
+815,Japanese,Chipotle,Expensive,Greenwich Village,9:30,16:00,4,FALSE
+816,Indian,Wendy's,Expensive,Upper West Side,9:30,17:00,4,TRUE
+817,Korean,Five Guys,Expensive,Tribeca,10:00,17:00,5,TRUE
+818,Korean,ilili,Expensive,Greenwich Village,10:00,16:00,2,TRUE
+819,Indian,Bonqueria,Cheap,Chelsea,10:00,17:00,1,FALSE
+820,Spanish,Take31,Cheap,Upper West Side,10:30,18:00,4,TRUE
+821,Spanish,Five Guys,Cheap,Soho,9:00,17:00,5,TRUE
+822,Thai,Temple Court,Cheap,Chelsea,11:00,17:00,5,FALSE
+823,Italian,Witherspoon Grill,Expensive,Lower East Side,9:30,20:00,1,TRUE
+824,Mexican,Witherspoon Grill,Medium,Greenwich Village,10:00,18:00,4,TRUE
+825,Spanish,MayRee,Expensive,Soho,11:30,17:00,5,FALSE
+826,Mexican,MayRee,Medium,East Village,11:00,20:00,5,TRUE
+827,Mexican,Hello Saigon,Cheap,Gramercy,9:00,18:00,1,FALSE
+828,Thai,Bonqueria,Expensive,West Village,9:30,17:00,2,FALSE
+829,Italian,Tartinery,Cheap,Upper West Side,9:00,17:00,2,FALSE
+830,Spanish,Fish Cheeks,Expensive,Chelsea,10:00,17:00,1,FALSE
+831,Indian,Kimura,Medium,Upper West Side,9:00,16:00,4,FALSE
+832,Chinese,Bonqueria,Expensive,Gramercy,11:00,16:00,3,TRUE
+833,Spanish,Chipotle,Expensive,Little Italy,11:00,17:00,5,TRUE
+834,Thai,Gelso & Grand,Expensive,East Village,10:30,17:00,5,FALSE
+835,Chinese,Five Guys,Cheap,West Village,10:00,16:00,5,FALSE
+836,Italian,Take31,Expensive,Flushing,10:30,16:00,5,FALSE
+837,Mexican,Antoya,Expensive,Upper East Side,9:00,16:00,3,FALSE
+838,Korean,Witherspoon Grill,Medium,Upper East Side,10:30,20:00,1,TRUE
+839,Indian,Fish Cheeks,Cheap,Flushing,9:30,16:00,5,TRUE
+840,Chinese,Essential by Chris,Medium,Upper East Side,10:00,16:00,2,FALSE
+841,Korean,Bonqueria,Expensive,Lower East Side,10:00,16:00,5,TRUE
+842,Mexican,Gelso & Grand,Expensive,Soho,10:00,17:00,2,TRUE
+843,Mexican,Don Angie,Cheap,West Village,11:30,16:00,4,FALSE
+844,Mexican,ilili,Medium,Little Italy,9:00,16:00,2,TRUE
+845,Mexican,Don Angie,Expensive,Lower East Side,10:00,17:00,4,TRUE
+846,Thai,Chipotle,Expensive,Chelsea,10:00,18:00,2,TRUE
+847,Italian,Take31,Expensive,Upper East Side,10:00,20:00,3,FALSE
+848,Italian,Antoya,Medium,Gramercy,11:00,17:00,4,TRUE
+849,Korean,Temple Court,Medium,Gramercy,10:00,20:00,2,TRUE
+850,Thai,Five Guys,Expensive,East Village,9:30,16:00,5,FALSE
+851,Mexican,Temple Court,Expensive,East Village,9:00,16:00,1,FALSE
+852,Indian,Chipotle,Medium,Lower East Side,11:00,20:00,5,TRUE
+853,Chinese,Bo Ky,Cheap,Chelsea,9:00,20:00,4,TRUE
+854,Mexican,Antoya,Cheap,Little Italy,11:00,18:00,3,TRUE
+855,Spanish,Fish Cheeks,Medium,West Village,11:00,17:00,1,FALSE
+856,Spanish,Su Jeo,Expensive,Chelsea,10:00,17:00,2,FALSE
+857,Thai,Fish Cheeks,Medium,Upper East Side,10:30,16:00,4,FALSE
+858,Japanese,Kimura,Expensive,Upper West Side,11:00,21:00,4,FALSE
+859,Korean,Don Angie,Cheap,Soho,9:30,18:00,3,TRUE
+860,Thai,Gelso & Grand,Expensive,Upper West Side,11:30,21:00,2,TRUE
+861,Italian,ilili,Cheap,Chelsea,10:00,21:00,4,TRUE
+862,Korean,Witherspoon Grill,Cheap,Upper West Side,11:00,16:00,5,FALSE
+863,Korean,Five Guys,Cheap,East Village,9:30,18:00,3,FALSE
+864,Japanese,Hello Saigon,Medium,Soho,11:00,20:00,2,TRUE
+865,Indian,ilili,Medium,Flushing,9:00,21:00,1,FALSE
+866,Japanese,Take31,Expensive,Greenwich Village,10:30,17:00,3,FALSE
+867,Japanese,Big Wong,Expensive,Upper West Side,11:30,18:00,2,FALSE
+868,Japanese,Kimura,Expensive,Gramercy,11:30,18:00,5,FALSE
+869,Japanese,ilili,Expensive,Soho,9:00,20:00,5,TRUE
+870,Mexican,Tartinery,Expensive,Soho,11:30,18:00,1,TRUE
+871,Italian,Wendy's,Cheap,Gramercy,10:00,17:00,1,FALSE
+872,Chinese,MayRee,Medium,East Village,11:30,18:00,1,FALSE
+873,Chinese,Five Guys,Medium,Lower East Side,9:00,18:00,1,TRUE
+874,Thai,Hello Saigon,Expensive,East Village,9:00,18:00,1,TRUE
+875,Japanese,Big Wong,Medium,Soho,9:00,20:00,1,TRUE
+876,Italian,Antoya,Cheap,Tribeca,10:00,20:00,4,TRUE
+877,Korean,Bo Ky,Cheap,Tribeca,10:00,17:00,3,FALSE
+878,Italian,ilili,Medium,Tribeca,10:00,16:00,1,FALSE
+879,Indian,Five Guys,Expensive,Lower East Side,9:00,16:00,3,TRUE
+880,Indian,Kimura,Expensive,Chelsea,11:00,21:00,5,FALSE
+881,Indian,Tartinery,Expensive,Greenwich Village,11:30,16:00,2,FALSE
+882,Korean,Five Guys,Expensive,Chelsea,11:30,18:00,5,TRUE
+883,Indian,Witherspoon Grill,Expensive,Soho,11:00,18:00,3,FALSE
+884,Korean,ilili,Medium,Lower East Side,9:30,21:00,5,TRUE
+885,Korean,Witherspoon Grill,Medium,Upper West Side,9:00,16:00,4,TRUE
+886,Thai,Fish Cheeks,Cheap,Upper West Side,11:00,20:00,2,FALSE
+887,Italian,Fish Cheeks,Cheap,Upper East Side,11:30,17:00,4,TRUE
+888,Thai,Essential by Chris,Cheap,West Village,10:00,16:00,5,TRUE
+889,Indian,Take31,Expensive,West Village,9:00,18:00,4,FALSE
+890,Korean,Hello Saigon,Expensive,Upper West Side,10:00,17:00,1,TRUE
+891,Chinese,ilili,Cheap,Chelsea,9:00,16:00,2,TRUE
+892,Indian,Five Guys,Expensive,Little Italy,11:00,20:00,2,TRUE
+893,Chinese,Antoya,Medium,East Village,10:00,18:00,4,FALSE
+894,Chinese,Bonqueria,Cheap,Flushing,9:30,20:00,3,FALSE
+895,Japanese,Gelso & Grand,Medium,East Village,9:30,20:00,1,FALSE
+896,Italian,Don Angie,Cheap,Little Italy,10:00,18:00,3,FALSE
+897,Korean,Big Wong,Cheap,Upper West Side,9:30,18:00,2,TRUE
+898,Indian,Chipotle,Medium,Greenwich Village,11:00,21:00,4,FALSE
+899,Thai,Essential by Chris,Expensive,Upper West Side,9:00,16:00,2,FALSE
+900,Mexican,Bonqueria,Expensive,Flushing,10:00,21:00,4,FALSE
+901,Chinese,Su Jeo,Medium,Tribeca,9:30,17:00,2,FALSE
+902,Thai,Take31,Expensive,Gramercy,10:30,17:00,5,FALSE
+903,Chinese,Witherspoon Grill,Medium,Greenwich Village,11:00,20:00,1,TRUE
+904,Indian,Witherspoon Grill,Cheap,Chelsea,9:00,16:00,4,TRUE
+905,Korean,Chipotle,Medium,Tribeca,9:30,21:00,3,TRUE
+906,Indian,Su Jeo,Cheap,East Village,9:00,17:00,3,TRUE
+907,Japanese,Su Jeo,Medium,Upper East Side,9:00,18:00,4,TRUE
+908,Korean,Gelso & Grand,Medium,West Village,11:30,21:00,1,TRUE
+909,Mexican,MayRee,Cheap,Tribeca,11:00,18:00,2,FALSE
+910,Thai,Essential by Chris,Cheap,Upper East Side,10:30,17:00,4,TRUE
+911,Spanish,Take31,Cheap,Greenwich Village,11:30,16:00,4,FALSE
+912,Mexican,Big Wong,Expensive,Little Italy,10:00,18:00,5,TRUE
+913,Thai,Kimura,Expensive,Chelsea,10:00,17:00,3,TRUE
+914,Indian,Five Guys,Medium,East Village,9:00,16:00,5,TRUE
+915,Japanese,MayRee,Cheap,Upper East Side,10:00,17:00,3,FALSE
+916,Chinese,Wendy's,Cheap,Lower East Side,9:00,17:00,2,FALSE
+917,Thai,Bo Ky,Expensive,Upper West Side,9:30,16:00,1,TRUE
+918,Mexican,Temple Court,Expensive,Soho,9:30,16:00,1,TRUE
+919,Spanish,Five Guys,Medium,Lower East Side,11:00,17:00,4,TRUE
+920,Spanish,Hello Saigon,Cheap,Upper East Side,10:30,21:00,2,FALSE
+921,Chinese,Essential by Chris,Expensive,West Village,9:30,17:00,1,FALSE
+922,Italian,Gelso & Grand,Expensive,Tribeca,11:30,20:00,1,FALSE
+923,Spanish,ilili,Cheap,Upper East Side,11:30,21:00,5,TRUE
+924,Mexican,Bo Ky,Cheap,Tribeca,11:30,20:00,1,TRUE
+925,Indian,Temple Court,Expensive,Tribeca,9:00,16:00,1,TRUE
+926,Thai,Bonqueria,Medium,Soho,10:00,17:00,3,FALSE
+927,Japanese,Wendy's,Medium,Tribeca,11:00,17:00,3,TRUE
+928,Spanish,Big Wong,Medium,Upper West Side,9:00,16:00,2,TRUE
+929,Thai,Essential by Chris,Expensive,Tribeca,10:00,20:00,2,FALSE
+930,Korean,Chipotle,Expensive,Upper East Side,11:00,17:00,1,FALSE
+931,Thai,Don Angie,Expensive,Upper West Side,11:00,18:00,2,FALSE
+932,Italian,Bo Ky,Cheap,Greenwich Village,9:30,20:00,5,FALSE
+933,Indian,Chipotle,Expensive,Little Italy,9:30,21:00,4,FALSE
+934,Spanish,Hello Saigon,Medium,Upper East Side,11:00,17:00,5,TRUE
+935,Italian,Fish Cheeks,Cheap,Upper East Side,10:00,17:00,5,FALSE
+936,Japanese,Hello Saigon,Cheap,Chelsea,10:30,17:00,3,TRUE
+937,Japanese,Five Guys,Cheap,Gramercy,11:30,18:00,1,FALSE
+938,Italian,Hello Saigon,Cheap,Upper East Side,10:00,20:00,4,FALSE
+939,Korean,Don Angie,Expensive,Chelsea,11:30,17:00,2,FALSE
+940,Chinese,Wendy's,Medium,Upper East Side,11:00,20:00,1,TRUE
+941,Mexican,Tartinery,Medium,East Village,10:00,18:00,1,TRUE
+942,Thai,Don Angie,Medium,West Village,9:30,16:00,3,TRUE
+943,Spanish,Wendy's,Cheap,Lower East Side,10:30,18:00,5,TRUE
+944,Korean,Hello Saigon,Medium,Gramercy,10:30,16:00,2,FALSE
+945,Indian,Chipotle,Cheap,East Village,11:00,17:00,1,FALSE
+946,Spanish,Essential by Chris,Medium,Soho,11:00,16:00,5,TRUE
+947,Thai,ilili,Expensive,East Village,11:30,17:00,1,TRUE
+948,Thai,Bo Ky,Medium,Chelsea,9:00,20:00,4,TRUE
+949,Korean,Tartinery,Expensive,Upper West Side,11:30,18:00,3,FALSE
+950,Japanese,Fish Cheeks,Expensive,West Village,11:00,16:00,3,TRUE
+951,Spanish,Witherspoon Grill,Medium,Greenwich Village,9:00,17:00,3,TRUE
+952,Thai,Chipotle,Cheap,Little Italy,10:00,17:00,1,FALSE
+953,Chinese,ilili,Medium,Tribeca,10:00,20:00,1,FALSE
+954,Spanish,Take31,Expensive,Little Italy,11:00,17:00,5,TRUE
+955,Mexican,Wendy's,Medium,Tribeca,11:00,18:00,3,FALSE
+956,Indian,Hello Saigon,Cheap,Little Italy,9:30,20:00,4,TRUE
+957,Italian,Hello Saigon,Cheap,Tribeca,10:00,17:00,3,FALSE
+958,Japanese,MayRee,Medium,Tribeca,10:30,18:00,1,TRUE
+959,Chinese,MayRee,Medium,East Village,9:00,17:00,3,FALSE
+960,Thai,Bonqueria,Cheap,Flushing,10:30,20:00,1,FALSE
+961,Indian,Witherspoon Grill,Expensive,Flushing,10:00,16:00,3,FALSE
+962,Thai,Essential by Chris,Medium,Lower East Side,10:00,20:00,2,FALSE
+963,Korean,Temple Court,Cheap,Upper East Side,9:00,17:00,2,FALSE
+964,Japanese,Witherspoon Grill,Expensive,Greenwich Village,10:00,20:00,4,TRUE
+965,Chinese,Tartinery,Expensive,Upper West Side,11:30,18:00,2,FALSE
+966,Chinese,Five Guys,Medium,Little Italy,9:00,20:00,2,TRUE
+967,Italian,Kimura,Expensive,Lower East Side,9:00,17:00,3,FALSE
+968,Korean,Bonqueria,Medium,Lower East Side,10:00,17:00,5,FALSE
+969,Indian,Chipotle,Medium,Greenwich Village,10:00,17:00,1,FALSE
+970,Indian,Antoya,Medium,Lower East Side,10:00,16:00,4,FALSE
+971,Thai,Bo Ky,Medium,Chelsea,9:30,16:00,4,TRUE
+972,Thai,Kimura,Medium,Greenwich Village,10:00,18:00,3,FALSE
+973,Indian,Bo Ky,Medium,Chelsea,10:30,16:00,5,TRUE
+974,Mexican,Essential by Chris,Medium,Lower East Side,10:00,16:00,2,FALSE
+975,Thai,Tartinery,Medium,Chelsea,11:00,16:00,3,FALSE
+976,Italian,Temple Court,Medium,Lower East Side,10:00,17:00,4,TRUE
+977,Spanish,Antoya,Medium,Upper West Side,11:00,17:00,1,FALSE
+978,Indian,Temple Court,Cheap,Gramercy,9:30,18:00,4,FALSE
+979,Mexican,Antoya,Expensive,Upper East Side,10:00,20:00,3,TRUE
+980,Italian,Su Jeo,Cheap,West Village,11:00,17:00,1,FALSE
+981,Indian,Wendy's,Expensive,Greenwich Village,9:30,16:00,1,FALSE
+982,Indian,Fish Cheeks,Medium,Soho,11:00,20:00,2,FALSE
+983,Mexican,Don Angie,Medium,Gramercy,11:00,17:00,1,TRUE
+984,Indian,Don Angie,Cheap,Upper West Side,11:30,18:00,4,FALSE
+985,Japanese,Su Jeo,Expensive,Little Italy,9:00,17:00,1,TRUE
+986,Mexican,Five Guys,Expensive,Soho,11:30,21:00,5,TRUE
+987,Japanese,Bo Ky,Cheap,Gramercy,11:30,20:00,5,FALSE
+988,Italian,Antoya,Medium,Soho,11:30,21:00,2,TRUE
+989,Indian,Antoya,Cheap,Gramercy,9:00,20:00,4,TRUE
+990,Mexican,Chipotle,Cheap,Flushing,10:00,21:00,1,FALSE
+991,Chinese,Big Wong,Medium,West Village,10:30,17:00,5,FALSE
+992,Spanish,Don Angie,Expensive,Soho,10:00,17:00,2,FALSE
+993,Korean,Su Jeo,Expensive,Chelsea,9:00,16:00,3,TRUE
+994,Thai,Gelso & Grand,Cheap,Flushing,10:00,20:00,1,FALSE
+995,Indian,Gelso & Grand,Cheap,Greenwich Village,10:00,16:00,3,TRUE
+996,Thai,Fish Cheeks,Medium,Greenwich Village,9:00,16:00,3,FALSE
+997,Japanese,Tartinery,Medium,Upper West Side,10:00,17:00,4,TRUE
+998,Spanish,Su Jeo,Cheap,East Village,10:30,20:00,5,FALSE
+999,Mexican,Fish Cheeks,Cheap,East Village,11:00,20:00,2,TRUE
+1000,Spanish,Tartinery,Cheap,Lower East Side,10:00,16:00,3,TRUE
