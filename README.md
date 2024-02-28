@@ -1,11 +1,5 @@
 # SQL CRUD
 
-- determine the structure of any tables
-- determine the data type of any fields
-- determine which field(s) is the primary key for each table
-- determine which field(s) is the foreign keys for any tables that require them
-- write SQL queries that perform the requested functionality.
-
 ## Part 1: Restaurant finder
 
 Design a database table named `restaurants` that would allow an application that uses it to find restaurants and a table named `reviews` that would hold reviews for any restaurant.
