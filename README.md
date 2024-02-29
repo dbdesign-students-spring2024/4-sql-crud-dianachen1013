@@ -139,4 +139,103 @@ GROUP BY neighborhood;
 
 ## Part 2: Social Media App
 
-###
+### Create table
+1. [users table](data/users.csv)
+- **id** (primary key: integer): An integer ranges from 1 to 1000, each restaurant matches with a unique id number.
+- **email** (text): The user's email address.
+- **password** (text): The user's password.
+- **handle** (text): The user's username.
+```sql
+CREATE TABLE users (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    email TEXT NOT NULL UNIQUE,
+    password TEXT NOT NULL,
+    handle TEXT NOT NULL UNIQUE
+);
+```
+2. [posts table](data/posts.csv)
+- **id** (primary key: integer): An integer ranges from 1 to 1000, each restaurant matches with a unique id number.
+- **user_id** (integer): The ID of the user who created the post, referencing the id in the users table. An integer ranges from 1 to 1000.
+- **post_type** (text): Indicates whether the post is a 'message' or a 'story'.
+- **content** (text): The text content of the post.
+- **recipient_id** (integer): The ID of the recipient user, relevant for messages. For stories, this can be NULL.
+- **visibility** (integer): Whether the post is visible (1) or invisible (0).
+- **post_time** (daytime text): The timestamp when the post was created.
+```sql
+CREATE TABLE posts (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_id INTEGER NOT NULL,
+    post_type TEXT NOT NULL CHECK(post_type IN ('message', 'story')),
+    content TEXT NOT NULL,
+    recipient_id INTEGER,
+    visibility INTEGER NOT NULL DEFAULT 1,
+    created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY(user_id) REFERENCES users(id),
+    FOREIGN KEY(recipient_id) REFERENCES users(id)
+);
+```
+### Queries
+1. Register a new User.
+```sql
+INSERT INTO users (email, password, handle) VALUES ('user1001@db.com', 'password1001', 'user_1001');
+```  
+2. Create a new Message sent by a particular User to a particular User (pick any two Users for example).
+Let user 2 send a message to user 28.
+```sql
+INSERT INTO posts (user_id, post_type, content, recipient_id, visibility, created_at)
+VALUES (2, 'message', 'Hello from user 2 to user 28', 28, 1, CURRENT_TIMESTAMP);
+```  
+3. Create a new Story by a particular User (pick any User for example).
+```sql
+INSERT INTO posts (user_id, post_type, content, visibility, created_at)
+VALUES (4, 'story', 'This is a public story by user 4', 1, CURRENT_TIMESTAMP);
+```  
+4. Show the 10 most recent visible Messages and Stories, in order of recency.
+```sql
+SELECT * FROM posts WHERE visibility = 1 ORDER BY created_at DESC LIMIT 10;
+```
+| post_id | user_id | post_type | content                                                      | recipient_id | visibility | post_time          |
+|---------|---------|-----------|--------------------------------------------------------------|--------------|------------|--------------------|
+| 1726    | 920     | message   | Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. | 731          | 0          | 2024/2/27 23:58    |
+| 1561    | 771     | message   | Phasellus in felis.                                          | 347          | 0          | 2024/2/27 23:57    |
+| 186     | 529     | story     | Nulla ut erat id mauris vulputate elementum.                 | null         | 1          | 2024/2/27 23:56    |
+| 137     | 525     | message   | Aenean lectus.                                               | 192          | 0          | 2024/2/27 23:52    |
+| 1038    | 202     | message   | Duis aliquam convallis nunc.                                 | 381          | 0          | 2024/2/27 23:51    |
+| 803     | 268     | story     | Etiam pretium iaculis justo.                                 | null         | 0          | 2024/2/27 23:51    |
+| 1366    | 530     | message   | Aliquam sit amet diam in magna bibendum imperdiet.           | 630          | 1          | 2024/2/27 23:50    |
+| 1902    | 971     | message   | Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. | 494          | 0          | 2024/2/27 23:48    |
+| 149     | 780     | story     | Praesent blandit lacinia erat.                               | null         | 0          | 2024/2/27 23:47    |
+| 1863    | 433     | message   | Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. | 531          | 0          | 2024/2/27 23:46    |
+
+5. Show the 10 most recent visible Messages sent by a particular User to a particular User (pick any two Users for example), in order of recency.
+Assuming messages sent from user 10 to user 13:
+```sql
+SELECT * FROM posts
+WHERE post_type = 'message' AND user_id = 10 AND recipient_id = 13 AND visibility = 1
+ORDER BY created_at DESC
+LIMIT 10;
+```  
+6. Make all Stories that are more than 24 hours old invisible.
+```sql
+UPDATE posts
+SET visibility = 0
+WHERE post_type = 'story' AND (JULIANDAY('now') - JULIANDAY(created_at)) * 24 > 24;
+```  
+7. Show all invisible Messages and Stories, in order of recency.
+```sql
+SELECT * FROM posts WHERE visibility = 0 ORDER BY created_at DESC;
+```  
+8. Show the number of posts by each User.
+```sql  
+SELECT user_id, COUNT(*) as post_count FROM posts GROUP BY user_id;
+```  
+9. Show the post text and email address of all posts and the User who made them within the last 24 hours.
+```sql
+SELECT p.content, u.email FROM posts p
+JOIN users u ON p.user_id = u.id
+WHERE (JULIANDAY('now') - JULIANDAY(p.created_at)) * 24 <= 24;
+```  
+10. Show the email addresses of all Users who have not posted anything yet.
+```sql
+SELECT email FROM users WHERE id NOT IN (SELECT DISTINCT user_id FROM posts);
+```
