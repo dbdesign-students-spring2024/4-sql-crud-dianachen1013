@@ -136,3 +136,7 @@ GROUP BY neighborhood;
 | Upper East Side   | 86                    |
 | Upper West Side   | 84                    |
 | West Village      | 94                    |
+
+## Part 2: Social Media App
+
+###
